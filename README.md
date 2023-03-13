@@ -13,3 +13,5 @@
 1. pkg install gmake
 2. pkg install subversion
 3. pkg install clang-devel
+
+- untested 13/3/2023
